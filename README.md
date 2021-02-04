@@ -69,4 +69,4 @@ $ yarn start
 <br>
 
 
-This project is under the [MIT license](https://github.com/Mateussv/Foodfy/blob/master/LICENSE).
+This project is under the [MIT license](https://github.com/Mateussv/github-explorer/blob/master/LICENSE).
