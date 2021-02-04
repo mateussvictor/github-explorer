@@ -43,7 +43,7 @@ const Dashboard: React.FC = () => {
     event.preventDefault();
 
     if (!newRepo) {
-      setInputError('Type author/name of repository.');
+      setInputError('Type author/repository (e.g., facebook/react).');
       return;
     }
 
@@ -69,7 +69,7 @@ const Dashboard: React.FC = () => {
         <input
           value={newRepo}
           onChange={e => setNewRepo(e.target.value)}
-          placeholder="Type the name of repository"
+          placeholder="Type author/repository."
         />
         <button type="submit">Search</button>
       </Form>
