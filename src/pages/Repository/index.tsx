@@ -54,7 +54,7 @@ const Repository: React.FC = () => {
         <img src={logoImg} alt="Github Explorer" />
         <Link to="/">
           <FiChevronLeft size={16} />
-          Voltar
+          Back
         </Link>
       </Header>
 
@@ -81,7 +81,7 @@ const Repository: React.FC = () => {
             </li>
             <li>
               <strong>{repository.open_issues_count}</strong>
-              <p>Issues abertas</p>
+              <p>Open issues</p>
             </li>
           </ul>
         </RepositoryInfo>
