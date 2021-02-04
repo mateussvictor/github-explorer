@@ -20,12 +20,12 @@
 <br><br>
 
 <p align="center">
-  <img src="github/Dashboard.png" alt="Dashboard">
+  <img src="github/Dashboard.png" height="360" alt="Dashboard">
 </p>
 <br>
 
 <p align="center">
-  <img src="github/Repository.png" alt="Repository">
+  <img src="github/Repository.png" height="360" alt="Repository">
 </p>
 
 ## :hammer_and_wrench: Technologies
